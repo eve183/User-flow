@@ -27,7 +27,7 @@ Para poder acceder al sistema y realizar pedidos de comida.
 - Almacenamiento de datos del usuario  
 
 Diagrama 1  
-[Ver PDF](diagramas/diagrama1.pdf)
+[Ver PDF](diagrama1, 2 y 3.pdf)
 
 
 ## 2. Visualización del menú
