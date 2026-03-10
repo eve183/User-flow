@@ -27,7 +27,7 @@ Para poder acceder al sistema y realizar pedidos de comida.
 - Almacenamiento de datos del usuario  
 
 Diagrama 1  
-[Ver PDF](diagrama1, 2 y 3.pdf)
+https://lucid.app/lucidchart/2e5066d5-33bd-4869-a295-e1d1fdba4098/edit?viewport_loc=701%2C-1454%2C2994%2C1441%2C0_0&invitationId=inv_4c1dfc6c-2c5e-4958-b8c2-78bfff48e8d8
 
 
 ## 2. Visualización del menú
@@ -50,7 +50,7 @@ Para decidir qué comida pedir antes de llegar.
 - Mostrar puntos de venta  
 
 Diagrama 2  
-[Ver PDF](diagramas/diagrama2.pdf)
+https://lucid.app/lucidchart/2e5066d5-33bd-4869-a295-e1d1fdba4098/edit?viewport_loc=701%2C-1454%2C2994%2C1441%2C0_0&invitationId=inv_4c1dfc6c-2c5e-4958-b8c2-78bfff48e8d8
 
 
 ## 3. Pedido anticipado
@@ -72,7 +72,7 @@ Para evitar las filas en la cafetería.
 - Confirmar el pedido
 
 Diagrama 3  
-[Ver PDF](diagramas/diagrama3.pdf)
+https://lucid.app/lucidchart/2e5066d5-33bd-4869-a295-e1d1fdba4098/edit?viewport_loc=701%2C-1454%2C2994%2C1441%2C0_0&invitationId=inv_4c1dfc6c-2c5e-4958-b8c2-78bfff48e8d8
 
 
 ## 4. Pago del pedido en la aplicación
@@ -95,7 +95,7 @@ Para evitar hacer fila en la caja.
 - Registrar el pago
 
 Diagrama 4  
-[Ver PDF](diagramas/diagrama4.pdf) 
+https://lucid.app/lucidchart/4ad1165b-2367-4163-96d0-3b86df3fc76f/edit?viewport_loc=472%2C1092%2C1929%2C1178%2C0_0&invitationId=inv_97a29932-aed1-461e-8098-2bac915ce346
 
 
 ## 5. Gestión de pedidos para cafetería
@@ -118,8 +118,7 @@ Para prepararlos antes de que lleguen.
 - Organizar pedidos por orden de llegada
 
 Diagrama 5  
-[Ver PDF](diagramas/diagrama6.pdf)
-
+https://lucid.app/lucidchart/4ad1165b-2367-4163-96d0-3b86df3fc76f/edit?viewport_loc=472%2C1092%2C1929%2C1178%2C0_0&invitationId=inv_97a29932-aed1-461e-8098-2bac915ce346
 
 ## 6. Notificación de pedido listo
 
@@ -141,4 +140,4 @@ Para recogerla sin esperar.
 
 
 Diagrama 6  
-[Ver PDF](diagramas/diagrama6.pdf)
+https://lucid.app/lucidchart/4ad1165b-2367-4163-96d0-3b86df3fc76f/edit?viewport_loc=472%2C1092%2C1929%2C1178%2C0_0&invitationId=inv_97a29932-aed1-461e-8098-2bac915ce346
